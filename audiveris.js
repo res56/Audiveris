@@ -20,7 +20,7 @@
 //=============================================================================
 
 /***********  MODIFY THIS VALUE *****************/
-var audiverisHome = "/usr/bin/audiveris";
+var audiverisHome = "/usr/bin/audiveris/";
 /***********  MODIFY THIS VALUE *****************/
 
 var xmlFile;
